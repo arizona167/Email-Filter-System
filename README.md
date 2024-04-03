@@ -1,1 +1,1 @@
-Email spam filter solution using Random Forest Classifier
+Spam email filter solution using Random Forest Classifier
